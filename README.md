@@ -2,9 +2,7 @@
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Portfolio Gif](/images/portfolio.gif)
 
 ## Features
 
@@ -18,24 +16,7 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
 ## Lighthouse Report
 
-![Lighthouse Report](/images/lighthouse-report.png)
-
 ### Contributions are warmly welcomed ❤️.
-
-## Getting Started 🚀
-
-You'll need [Git](https://git-scm.com) to be installed on your computer. 
-```
-# Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
-```
-
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
-
-## Editing the Template 🔨
-
-Go to `index.html` and fill your information. 
-
 ### Header
 
 In all of the places where you're supposed to fill your information you'll find HTML comments. As shown below just replace what is already in the opening and closing tags below the comment with your information.
@@ -45,10 +26,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Honest Gceba</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Web Developer based in Mafikeng South Africa</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -215,10 +196,7 @@ For changing the screenshot:
           &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
         </p>
         <div class="footer__github-buttons">
-          <iframe
-            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
-            frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
-          </iframe>
+       
         </div>
     </div>
 </footer>
